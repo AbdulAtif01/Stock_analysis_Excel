@@ -16,4 +16,3 @@ The dataset provides historical data at the daily level from December 2020 to No
 
 All displayed currencies are in USD.
 
-## Analysis Derived from the Dataset
